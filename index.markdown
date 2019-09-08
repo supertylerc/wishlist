@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wishlist
-enable_charities: true
+enable_charities: false
 ---
 * TOC
 {:toc}

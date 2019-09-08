@@ -1,185 +1,164 @@
-# <250
-lt250:
-    - title: Money
-    - title: Bookmarks
-      hidden: true
-    - title: Tennis socks
-      bought: true
-    - title: Coffee mugs with rubber bottom and coasters
-    - title: 200,- PlayStation Network Gift Cards
-      image: https://tubby.scene7.com/is/image/tubby/PSN200DKK?$fullsize$
-      price: "199"
-      link:
-        elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN200DKK/playstation-network-live-card
-    - title: Stand/table for computer (with wheels?)
-    - title: Headphone hanger
-      bought: true
-      image: https://cdn.shopify.com/s/files/1/0953/2124/products/BWAVZ_Truss_Clean_00_grande.jpg?v=1451561869
-      price: "199"
-      link:
-        amazon: https://amzn.to/2fEatkg
-    - title: Sideclick Universal Remote Attachment for Apple 4K
-      hidden: true
-      image: https://cdn.shopify.com/s/files/1/1184/8816/products/01_Web_Apple_G4_large.jpg?v=1485749267
-      price: "199"
-      link:
-        american_import: https://www.sideclickremotes.com/collections/apple-tv-streaming-accessories/products/sideclick-universal-remote-attachment-for-apple-tv-gen-4-black-touchpad-remotes
-    - title: "Villy Sørensen: Ragnarok---En Gudefortælling (Book)"
-# >250
-gt250:
-    - title: Parliament Book
-      hidden: true
-      link:
-         purchase: http://www.parliamentbook.com/book
-    - title: "Spider-Man: Into the Spider-Verse: The Art of the Movie"
-      bought: true
-      image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7856/9781785659461.jpg
-      price: "249"
-      link:
-          dansk_butik: https://www.saxo.com/dk/spider-man-into-the-spider-verse_ramin-zahed_hardback_9781785659461
-          book_depository: https://www.bookdepository.com/Spider-Man-Into-the-Spider-Verse-Ramin-Zahed/9781785659461
-    - title: Inside Black Mirror
-      image: https://www.penguin.co.uk/content/dam/prh/books/111/1116698/9781529102581.jpg.transform/PRHDesktopWide_small/image.jpg
-      price: "249"
-      link:
-        dansk_butik: https://www.saxo.com/dk/inside-black-mirror_charlie-brooker_hardback_9781984823489
-        book_depository: https://www.bookdepository.com/Inside-Black-Mirror-Jason-Arnopp/9781529102581
-    - title: "Dismantling the Welfare State? : Reagan, Thatcher and the Politics of Retrenchment"
-      hidden: true
-      image: https://images-na.ssl-images-amazon.com/images/I/41TzErYBNWL._SX331_BO1,204,203,200_.jpg
-      price: "249"
-      link:
-        dansk_butik: http://cdon.dk/b%C3%B8ger/paul_pierson/dismantling_the_welfare_state%3f-689017
-        amazon: https://amzn.to/2jgvvXQ
-        book_depository: http://www.bookdepository.com/Dismantling-the-Welfare-State-Paul-Pierson/9780521555708?ref=grid-view
-    - title: Boxing gloves
-      hidden: true
-      price: "249"
-    - title: Ocarina of Time Link Amiibo
-      image: https://images-na.ssl-images-amazon.com/images/I/71dG-afhpZL._SL1080_.jpg
-      price: "249"
-      link:
-        amazon: https://amzn.to/2B6pemP
-        amazon: https://amzn.to/2g5XciP
-    - title: John Wick 1 (4K)
-      image: https://images-na.ssl-images-amazon.com/images/I/51%2BCkK0MUKL.jpg
-      price: "249"
-      link:
-        laserdisken: http://laserdisken.dk/html/visvare.dna?vare=149606828720055006
-        zavvi: https://www.zavvi.com/blu-ray/john-wick-4k-ultra-hd/11485249.html
-    - title: iPad Air 2 Smart Cover (RED)
-      image: https://store.storeimages.cdn-apple.com/4667/as-images.apple.com/is/image/AppleInc/aos/published/images/M/R6/MR632/MR632?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1504640721601
-      price: "349"
-      link:
-         apple: https://www.apple.com/dk/shop/product/MR632ZM/A/smart-cover-til-ipad-productred?fnode=9a&fs=f%3Dipad6gen%26fh%3D4583%252B43dd
-    - title: 400,- PlayStation Network Gift Cards
-      image: https://tubby.scene7.com/is/image/tubby/PSN400DKK?$fullsize$
-      price: "399"
-      link:
-          elgiganten: https://www.elgiganten.dk/product/gaming/spil/playstation-3-spil/PSN400DKK/playstation-network-live-card-400-kr
-    - title: Covert Regime Change
-      image: https://imgcdn.saxo.com/_9781501730658/0x500
-      price: "399"
-      link:
-          dansk_butik: https://www.saxo.com/dk/covert-regime-change_lindsey-a-orourke_hardback_9781501730658
-# >500
-gt500:
-    - title: The Grammar of Graphics
-      hidden: true
-      image: https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4419/9781441920331.jpg
-      price: "549"
-      link:
-        amazon: https://amzn.to/2qfO1Dn
-        book_depository: https://www.bookdepository.com/The-Grammar-of-Graphics-Leland-Wilkinson-D-Wills-D-Rope--Norton-R-Dubbs/9781441920331
-    - title: Owning Memory
-      hidden: true
-      image: https://imgcdn.saxo.com/_9780313320088/500x0
-      price: "599"
-      link:
-        saxo: https://www.saxo.com/dk/owning-memory_jeannette-a-bastian_hardback_9780313320088
-    - title: The Art of Metal Gear Solid I-IV
-      image: https://d2lzb5v10mb0lj.cloudfront.net/covers/300/30/3001445.jpg
-      price: "599"
-      link:
-        dansk_butik: https://www.saxo.com/dk/the-art-of-metal-gear-solid-i-iv_konami_hardback_9781506705811
-        book_depository: https://www.bookdepository.com/Art-Of-Metal-Gear-Solid-I-iv-Y-Shinkawa/9781506705811
-    - title: Wacom Intuos S(mall)
-      hidden: true
-      image: https://i.computersalg.dk/digitalcontent/0/1599/15996984.jpg
-      price: "599"
-      link:
-        dansk_butik: https://www.computersalg.dk/i/4154400/wacom-intuos-s-digitizer
-    - title: Black Noctua NH-D15S AM4 19Q1/2 # Summer
-      hidden: true
-      price: "699"
-      link:
-        noctua_press: https://noctua.at/en/noctua-at-computex-2018
-      # https://twitter.com/Noctua_at/status/1032728898373648386
-    - title: Apple Pencil 2
-      hidden: true
-      price: "1,049"
-      image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/M/K0/MK0C2/MK0C2_AV1?wid=1000&hei=1000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=DublD1
-      link:
-        apple: https://www.apple.com/dk/shop/product/MU8F2ZM/A/apple-pencil-2-generation
-    - title: Nyt armatur/skærme til lamper
-    - title: Subwoofer
-      hidden: true
-# >1000
-gt1000:
-    - title: Canon CanoScan Lide 220
-      hidden: true
-    - title: Elgato Stream Deck
-      hidden: true
-      image: https://dustinweb.azureedge.net/image/314717/960/720/elgato-stream-deck.jpg
-      price: "1,099"
-      link:
-        elgiganten: https://www.dustinhome.dk/product/5011060273/stream-deck
-    - title: Apple TV 4K (32GB)
-      bought: true
-      image: https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/a/pp/apple/tv/apple-tv-hero-select-201709?wid=538&amp;amp;hei=535&amp;amp;fmt=jpeg&amp;amp;qlt=95&amp;amp;op_sharpen=0&amp;amp;resMode=bicub&amp;amp;op_usm=0.5,0.5,0,0&amp;amp;iccEmbed=0&amp;amp;layer=comp&amp;amp;.v=1504814112595
-      price: "1,499"
-      link:
-        apple: https://www.apple.com/dk/shop/buy-tv/apple-tv-4k/32-gb
-    - title: Clothes by Rains
-      hidden: true
-      link:
-        rains: https://dk.rains.com
-    - title: Højere TV-bord, højde@~55cm, bredde@115-140cm (mindst-max)
-    - title: WD Blue 6TB
-      bought: true
-      image: https://dustinweb.azureedge.net/image/297754/960/720/wd-blue-6tb-35-serial-ata-600.jpg
-      price: "1,629"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011119851/blue-wd60ezaz
-    - title: New glass lenses
-      bought: true
-    - title: New keyboard
-gt2500:
-    - title: Nintendo Switch (red-blue version)
-      bought: true
-      image: https://dustinweb.azureedge.net/image/244601/960/720/nintendo-switch-with-neon-joy-con-32gb.jpg
-      price: "2,499"
-      link:
-        dustinhome: https://www.dustinhome.dk/product/5011007342/switch-with-neon-joy-con
-        elgiganten: https://www.elgiganten.dk/product/gaming/konsoller/SWI32GBNEON/nintendo-switch-konsol-neonbla-og-neonrod-joy-con
-        amazon: https://amzn.to/2zXQrZy
-    - title: New headphones - wireless?
-    - title: Ørgreen sunglasses
-      hidden: true
-      link:
-        oergreen: https://www.orgreenoptics.com/playground/quantum-sun/
-    - title: Receiver (UHD, HDR10+, HDMI 2.1 VRR)
-      price: "3,999"
-      hidden: true
-      link:
-        wirecutter: http://thewirecutter.com/reviews/best-receiver
-        flatpanels: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1530781197
-    - title: New PC monitor
-    - title: New GPU
-    - title: New phone?
-
-# [Incase 13" ICON Sleeve med Tensaerlite til MacBook Air][incase] {500}
-#
-# * Citizen Messenger bag (red)
-#     - `[x]` [Mini][] ($120)
-#     - `[ ]` [Regular][]
+# <25
+lt25:
+  - title: Money
+  - title: "FW Acrylic Artists' Ink: White or Sepia (1oz/29.5ml)""
+    image: https://imgs.michaels.com/MAM/assets/1/726D45CA1C364650A39CD1B336F03305/img/7590C7919CA44D58A7D833ADA1E44874/10518930.jpg
+    price: "$7.99"
+    link:
+      michaels: https://canada.michaels.com/en/daler-rowney-fw-acrylic-artists-ink/10518930.html
+  - title: Death Note - Ryuk Funko
+    image: https://images-na.ssl-images-amazon.com/images/I/71Vrbn2lNlL._AC_SL1200_.jpg
+    price: "$20"
+    link:
+      amazon: https://www.amazon.ca/dp/B01MUAEEF9/
+  - title: Resident Evil - The Complete Collection
+    image: https://images-na.ssl-images-amazon.com/images/I/615woGJq3XL._AC_.jpg
+    price: "$24.99"
+    link:
+      amazon: https://www.amazon.ca/dp/B06XGGGN93/
+  - title:  The Usual Suspects
+    image: https://images-na.ssl-images-amazon.com/images/I/91wrRUl4ssL._AC_SL1500_.jpg
+    price: "$12.12"
+    link:
+      amazon: https://www.amazon.ca/dp/B00Q89MM3A/
+  - title: The Lost Boys
+    image: https://images-na.ssl-images-amazon.com/images/I/51t3T9-6jxL._AC_.jpg
+    price: "$11.96"
+    link:
+      amazon: https://www.amazon.ca/dp/B001AXOFFW/
+  - title: Alien vs. Predator Double Feature
+    image: https://images-na.ssl-images-amazon.com/images/I/91H3QfiY9yL._AC_SL1500_.jpg
+    price: "$18.09"
+    link:
+      amazon: https://www.amazon.ca/dp/B00MNS2QLI/
+  - title: The Hitchhiker's Guide to the Galaxy
+    image: https://images-na.ssl-images-amazon.com/images/I/51yOoSJtvnL._AC_.jpg
+    price: "$14.99"
+    link:
+      amazon: https://www.amazon.ca/dp/B000KEG938/
+  - title: From Hell
+    image: https://images-na.ssl-images-amazon.com/images/I/A1v98oitO6L._AC_SL1500_.jpg
+    price: "$8.99"
+    link:
+      amazon: https://www.amazon.ca/dp/B008K2SZ48/
+  - title: Batman Returns
+    image: https://images-na.ssl-images-amazon.com/images/I/91UQ236Ff9L._AC_SL1500_.jpg
+    price: "$14.98"
+    link:
+      amazon: https://www.amazon.ca/dp/B003A46V88/
+  - title: Batman
+    image: https://images-na.ssl-images-amazon.com/images/I/911bZ7amVCL._AC_SL1500_.jpg
+    price: "$11.49"
+    link:
+      amazon: https://www.amazon.ca/dp/B003A46V8I/
+  - title: Constantine
+    image: https://images-na.ssl-images-amazon.com/images/I/51Pv4N1WpKL._AC_.jpg
+    price: "$10.75"
+    link:
+      amazon: https://www.amazon.ca/dp/B001CD3PNI/
+  - title: The Last Samurai
+    image: https://images-na.ssl-images-amazon.com/images/I/51Mq3YxezDL._AC_.jpg
+    price: "$11.19"
+    link:
+      amazon: https://www.amazon.ca/dp/B000JUB7LW/
+  - title: Sin City Double Feature
+    image: https://images-na.ssl-images-amazon.com/images/I/91s4HCuwblL._AC_SL1500_.jpg
+    price: "$19.99"
+    link:
+      amazon: https://www.amazon.ca/dp/B00TBDF8QS/
+  - title: Enemy at the Gates
+    image: https://images-na.ssl-images-amazon.com/images/I/91yc2Kg3msL._AC_SL1500_.jpg
+    price: "$10.84"
+    link:
+      amazon: https://www.amazon.ca/dp/B01N9IG44I/
+  - title: Secret Window
+    image: https://images-na.ssl-images-amazon.com/images/I/51%2BYzqNRZ4L._AC_.jpg
+    price: "$11.74"
+    link:
+      amazon: https://www.amazon.ca/dp/B000NJKZU8/
+# >25
+gt25:
+  - title: "Indiana Jones: Complete Adventures"
+    image: https://images-na.ssl-images-amazon.com/images/I/51%2B15R9rWvL._AC_.jpg 
+    price: "$29.98"
+    link:
+      amazon: https://www.amazon.ca/dp/B003AQBVRW/
+  - title: General's Handbook 2019
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/60040299078_ENGAoSGeneralsHandbook01.jpg
+    price: "$40"
+    link:
+      gamesworkshop: https://www.games-workshop.com/en-CA/Generals-Handbook-EN-2019
+  - title: "Endless Spells: Gloomspite Gitz"
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/99120209061_EndlessSpellsGloomspiteGitz06.jpg
+    price: "$40"
+    link:
+      gamesworkshop: https://www.games-workshop.com/en-CA/Endless-spells-gloomspite-gitz-2019
+# >50
+gt50:
+  - title: "Star Trek: Stardate Collection"
+    image: https://images-na.ssl-images-amazon.com/images/I/81IAvcRRSVL._AC_SL1500_.jpg
+    price: "$55.32"
+    link:
+      amazon: https://www.amazon.ca/dp/B00DYAW236/
+  - title: "Pirates of the Caribbean: Complete Movie Collection"
+    image: https://images-na.ssl-images-amazon.com/images/I/81D2e1rqCyL._AC_SL1500_.jpg
+    price: "$52.99"
+    link:
+      amazon: https://www.amazon.ca/dp/B074G79614/
+  - title: Predator 1-4 (4K UHD)
+    image: https://images-na.ssl-images-amazon.com/images/I/71pewPyRzuL._AC_SL1500_.jpg
+    price: "$71.89"
+    link:
+      amazon: https://www.amazon.ca/dp/B07JJ6HQGF/
+  - title: "Star Wars: The Complete Saga"
+    image: https://images-na.ssl-images-amazon.com/images/I/91Na71MJPZL._AC_SL1500_.jpg
+    price: "$98.97"
+    link:
+      amazon: https://www.amazon.ca/dp/B013P2POSC/
+  - title: Scale75 Inktensity Set
+    image: https://cdn.shopify.com/s/files/1/1543/6007/products/SSE-011-Portada-Web_1024x1024.jpg?v=1479182433
+    price: "$53.25"
+    link:
+      scale75usa: https://scale75usa.com/collections/paint-sets-scale-color/products/inktensity-ink-set
+  - title: Warhammer Age of Sigmar Core Book
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/60040299070_AoSCoreRulebook01.jpg
+    price: "$70"
+    link:
+      gamesworkshop: https://www.games-workshop.com/en-CA/Warhammer-Age-Of-Sigmar-Book-2018-eng
+  - title: "Warhammer Age of Sigmar: Malign Sorcery"
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/60120299001_AoSMalignSorceryENG01.jpg
+    price: "$90"
+    link:
+      gamesworkshop: https://www.games-workshop.com/en-CA/Age-Of-Sigmar-Malign-Sorcery-2018-eng
+  - title: "Battletome: Skaven"
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/60030206007_ENGSKABattletomeHB.jpg
+    price: "$50"
+    link:
+      gamesworkshop: https://www.games-workshop.com/en-CA/Battletome-Skaven-pb-2019eng
+  - title: "Battletome: Gloomspite Gitz"
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/60030209010_GloomspiteGitzBattletomeHB.jpg
+    price: "$50"
+    link:
+      gamesworkshop: https://www.games-workshop.com/en-CA/Battletome-Gloomspite-Gitz-Hb-Eng-2019
+  - title: Bad Moon Loonshrine
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/99120209060_BadMoonLoonshrine06.jpg
+    price: "$70"
+    link:
+      gamesworkshop: https://www.games-workshop.com/en-CA/Gloomspite-gitz-bad-moon-loonshrine-2019
+  - title: Mixology Bartender Kit
+    image: https://www.amazon.ca/dp/B07B9KLRDC/
+    price: "$69.97"
+    link:
+      amazon: https://www.amazon.ca/dp/B07B9KLRDC/
+# >100
+gt100:
+  - title: "The Lord of the Rings: The Motion Picture Trilogy (Extended Edition)"
+    price: "$149.99"
+    image: https://images-na.ssl-images-amazon.com/images/I/91sqqzVpJYL._AC_SL1500_.jpg
+    link:
+       amazon: https://www.amazon.ca/dp/B004HEWNBO/
+  - title: Start Collecting!  Skaven Pestilens
+    price: "$110"
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/99120206025_StartCollectingPestilens06.jpg
+    link:
+       gamesworkshop: https://www.games-workshop.com/en-CA/Start-Collecting-Skaven-Pestilens
