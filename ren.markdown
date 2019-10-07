@@ -4,7 +4,7 @@ title: Tyler's Wishlist
 enable_charities: false
 ---
 
-[Tyler](https://wish.tylerc.me/tyler) | [Ren](https://wish.tylerc.me/ren) | [Family](https://wish.tylerc.me/family)
+[Tyler](https://wish.tylerc.me/tyler) || [Ren](https://wish.tylerc.me/ren) \| [Family](https://wish.tylerc.me/family)
 
 * TOC
 {:toc}
