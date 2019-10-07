@@ -29,7 +29,9 @@ enable_charities: false
 #### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }}**}</span>{% endif %} ####
 
 {% if w.image %}![Image for {{ w.title | smartify }}]({{ w.image }}){% endif %}
+
 {% if w.for %}<span>[{{ w.for | capitalize }}]</span>{% endif %}
+
 {% if w.link %}
 <span>{% for l in w.link %}[[{{ l[0] | replace:"_"," " | capitalize }}]({{ l[1] }})]{% if forloop.length > 1 and forloop.last == false %} / {% endif %}{% endfor %}</span>
 {% endif %}
