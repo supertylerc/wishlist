@@ -26,7 +26,7 @@ enable_charities: false
 {% for range in site.data.wishes %}
 ### {{ range[0] | replace:"lt","<" | replace:"gt",">" }} ###
 
-{% for w in range[1] if w.for == 'tyler' %}{% unless w.bought or w.hidden %}
+{% for w in range[1] %}{% unless w.for != "tyler" (w.bought or w.hidden) %}
 
 <div class="tile" markdown="1">
 #### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }}**}</span>{% endif %} ####
