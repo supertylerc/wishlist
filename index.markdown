@@ -4,7 +4,9 @@ title: Wishlist
 enable_charities: false
 ---
 
-<center>[Tyler](https://wish.tylerc.me/tyler) | [Ren](https://wish.tylerc.me/ren) | [Family](https://wish.tylerc.me/family)</center>
+<div class="center">
+[Tyler](https://wish.tylerc.me/tyler) | [Ren](https://wish.tylerc.me/ren) | [Family](https://wish.tylerc.me/family)
+</div>
 
 * TOC
 {:toc}
@@ -33,7 +35,7 @@ enable_charities: false
 
 {% if w.image %}![Image for {{ w.title | smartify }}]({{ w.image }}){% endif %}
 
-{% if w.for %}<span>[[{{ w.for | capitalize }}](https://tylerc.me/{{ w.for }})]</span>{% endif %}
+{% if w.for %}<span>[[{{ w.for | capitalize }}](https://wish.tylerc.me/{{ w.for }})]</span>{% endif %}
 
 {% if w.link %}
 <span>{% for l in w.link %}[[{{ l[0] | replace:"_"," " | capitalize }}]({{ l[1] }})]{% if forloop.length > 1 and forloop.last == false %} / {% endif %}{% endfor %}</span>

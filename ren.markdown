@@ -4,7 +4,9 @@ title: Tyler's Wishlist
 enable_charities: false
 ---
 
-<center>[Tyler](https://wish.tylerc.me/tyler) \| [Ren](https://wish.tylerc.me/ren) \| [Family](https://wish.tylerc.me/family)</center>
+<div class="center">
+[Tyler](https://wish.tylerc.me/tyler) \| [Ren](https://wish.tylerc.me/ren) \| [Family](https://wish.tylerc.me/family)
+</div>
 
 * TOC
 {:toc}
