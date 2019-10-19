@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tyler's Wishlist
+title: Ren's Wishlist
 enable_charities: false
 ---
 
