@@ -1,5 +1,11 @@
 # <25
 lt25:
+  - title: Goomba (Plushie, funko, Amiibo)
+    for: ren
+    price: 20
+  - title: Calendar (not Mario or Zelda)
+    for: ren
+    price: 20
   - title: Money
     price: 10
     for: family
@@ -101,6 +107,9 @@ lt25:
       amazon: https://www.amazon.ca/dp/B000NJKZU8/
 # >25
 gt25:
+  - title: Puzzle
+    for: ren
+    price: 35
   - title: "Indiana Jones: Complete Adventures"
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/51%2B15R9rWvL._AC_.jpg 
@@ -121,6 +130,9 @@ gt25:
       Games Workshop: https://www.games-workshop.com/en-CA/Endless-spells-gloomspite-gitz-2019
 # >50
 gt50:
+  - title: House Robe
+    for: ren
+    price: 75
   - title: "Star Trek: Stardate Collection"
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/81IAvcRRSVL._AC_SL1500_.jpg
@@ -187,8 +199,23 @@ gt50:
     price: 69.97
     link:
       amazon: https://www.amazon.ca/dp/B07B9KLRDC/
+  - title: Laptop Backpack
+    for: ren
+    price: 75
 # >100
 gt100:
+  - title: Foot Bath Soaker
+    for: ren
+    price: 119.98
+    image: https://images-na.ssl-images-amazon.com/images/I/51myW%2BenChL._AC_SL1200_.jpg
+    link:
+      Amazon: https://www.amazon.ca/massager-rolling-massage-vibration-temperature/dp/B00OWGXAT6/
+  - title: NEX Whiskey Decanter
+    for: family
+    price: 97.97
+    image: https://images-na.ssl-images-amazon.com/images/I/91VRqRFuMZL._AC_SL1500_.jpg
+    link:
+      Amazon: https://www.amazon.ca/Krown-Kitchen-Decanter-Glasses-Coasters/dp/B07FPV8YR4/
   - title: "The Lord of the Rings: The Motion Picture Trilogy (Extended Edition)"
     for: family
     price: 149.99
@@ -201,3 +228,6 @@ gt100:
     image: https://www.games-workshop.com/resources/catalog/product/920x950/99120206025_StartCollectingPestilens06.jpg
     link:
        Games Workshop: https://www.games-workshop.com/en-CA/Start-Collecting-Skaven-Pestilens
+  - title: Analog Watch with Leather Strap
+    for: ren
+    price: 200
