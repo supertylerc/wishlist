@@ -32,7 +32,7 @@ enable_charities: false
 {% for w in items %}{% unless w.bought or w.hidden %}
 
 <div class="tile" markdown="1">
-#### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ site.data.currency_symbol }}{{ w.price }}** {{ site.data.currency }}}</span>{% endif %} ####
+#### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ site.data.metadata.currency_symbol }}{{ w.price }}** {{ site.data.metadata.currency }}}</span>{% endif %} ####
 
 {% if w.image %}![Image for {{ w.title | smartify }}]({{ w.image }}){% endif %}
 
