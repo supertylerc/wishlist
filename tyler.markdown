@@ -5,7 +5,7 @@ enable_charities: false
 ---
 
 <div class="center">
-[Tyler](https://wish.tylerc.me/tyler) \| [Ren](https://wish.tylerc.me/ren) \| [Family](https://wish.tylerc.me/family)
+<a href="https://wish.tylerc.me/tyler">Tyler</a> | <a href="https://wish.tylerc.me/ren">Ren</a> | <a href="https://wish.tylerc.me/family">Family</a>
 </div>
 
 * TOC
@@ -28,10 +28,11 @@ enable_charities: false
 {% for range in site.data.wishes %}
 ### {{ range[0] | replace:"lt","<" | replace:"gt",">" }} ###
 
-{% for w in range[1] %}{% unless w.for != "tyler" (w.bought or w.hidden) %}
+{% assign items = range[1] | sort: 'price' %}
+{% for w in items %}{% unless w.for != "tyler" (w.bought or w.hidden) %}
 
 <div class="tile" markdown="1">
-#### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ w.price }}**}</span>{% endif %} ####
+#### {{ w.title | smartify }} {% if w.price %}<span style="white-space:nowrap">{**{{ site.data.currency_symbol }}{{ w.price }}** {{ site.data.currency }}}</span>{% endif %} ####
 
 {% if w.image %}![Image for {{ w.title | smartify }}]({{ w.image }}){% endif %}
 

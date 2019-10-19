@@ -1,95 +1,102 @@
 # <25
 lt25:
   - title: Money
+    price: 10
     for: family
+  - title: Nagash Journal (Hardcover)
+    for: tyler
+    image: https://www.games-workshop.com/resources/catalog/product/920x950/60100281228_NagashJournal01.jpg
+    price: 21
+    link:
+      Games Workshop: https://www.games-workshop.com/en-CA/Nagash-journal-2018
   - title: "FW Acrylic Artists' Ink: White or Sepia (1oz/29.5ml)"
     for: tyler
     image: https://imgs.michaels.com/MAM/assets/1/726D45CA1C364650A39CD1B336F03305/img/7590C7919CA44D58A7D833ADA1E44874/10518930.jpg
-    price: "$7.99"
+    price: 7.99
     link:
       michaels: https://canada.michaels.com/en/daler-rowney-fw-acrylic-artists-ink/10518930.html
   - title: Death Note - Ryuk Funko
     for: tyler
     image: https://images-na.ssl-images-amazon.com/images/I/71Vrbn2lNlL._AC_SL1200_.jpg
-    price: "$20"
+    price: 20
     link:
       amazon: https://www.amazon.ca/dp/B01MUAEEF9/
   - title: Resident Evil - The Complete Collection
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/615woGJq3XL._AC_.jpg
-    price: "$24.99"
+    price: 24.99
     link:
       amazon: https://www.amazon.ca/dp/B06XGGGN93/
   - title:  The Usual Suspects
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/91wrRUl4ssL._AC_SL1500_.jpg
-    price: "$12.12"
+    price: 12.12
     link:
       amazon: https://www.amazon.ca/dp/B00Q89MM3A/
   - title: The Lost Boys
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/51t3T9-6jxL._AC_.jpg
-    price: "$11.96"
+    price: 11.96
     link:
       amazon: https://www.amazon.ca/dp/B001AXOFFW/
   - title: Alien vs. Predator Double Feature
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/91H3QfiY9yL._AC_SL1500_.jpg
-    price: "$18.09"
+    price: 18.09
     link:
       amazon: https://www.amazon.ca/dp/B00MNS2QLI/
   - title: The Hitchhiker's Guide to the Galaxy
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/51yOoSJtvnL._AC_.jpg
-    price: "$14.99"
+    price: 14.99
     link:
       amazon: https://www.amazon.ca/dp/B000KEG938/
   - title: From Hell
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/A1v98oitO6L._AC_SL1500_.jpg
-    price: "$8.99"
+    price: 8.99
     link:
       amazon: https://www.amazon.ca/dp/B008K2SZ48/
   - title: Batman Returns
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/91UQ236Ff9L._AC_SL1500_.jpg
-    price: "$14.98"
+    price: 14.98
     link:
       amazon: https://www.amazon.ca/dp/B003A46V88/
   - title: Batman
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/911bZ7amVCL._AC_SL1500_.jpg
-    price: "$11.49"
+    price: 11.49
     link:
       amazon: https://www.amazon.ca/dp/B003A46V8I/
   - title: Constantine
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/51Pv4N1WpKL._AC_.jpg
-    price: "$10.75"
+    price: 10.75
     link:
       amazon: https://www.amazon.ca/dp/B001CD3PNI/
   - title: The Last Samurai
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/51Mq3YxezDL._AC_.jpg
-    price: "$11.19"
+    price: 11.19
     link:
       amazon: https://www.amazon.ca/dp/B000JUB7LW/
   - title: Sin City Double Feature
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/91s4HCuwblL._AC_SL1500_.jpg
-    price: "$19.99"
+    price: 19.99
     link:
       amazon: https://www.amazon.ca/dp/B00TBDF8QS/
   - title: Enemy at the Gates
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/91yc2Kg3msL._AC_SL1500_.jpg
-    price: "$10.84"
+    price: 10.84
     link:
       amazon: https://www.amazon.ca/dp/B01N9IG44I/
   - title: Secret Window
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/51%2BYzqNRZ4L._AC_.jpg
-    price: "$11.74"
+    price: 11.74
     link:
       amazon: https://www.amazon.ca/dp/B000NJKZU8/
 # >25
@@ -97,100 +104,100 @@ gt25:
   - title: "Indiana Jones: Complete Adventures"
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/51%2B15R9rWvL._AC_.jpg 
-    price: "$29.98"
+    price: 29.98
     link:
       amazon: https://www.amazon.ca/dp/B003AQBVRW/
   - title: General's Handbook 2019
     for: tyler
     image: https://www.games-workshop.com/resources/catalog/product/920x950/60040299078_ENGAoSGeneralsHandbook01.jpg
-    price: "$40"
+    price: 40
     link:
-      gamesworkshop: https://www.games-workshop.com/en-CA/Generals-Handbook-EN-2019
+      Games Workshop: https://www.games-workshop.com/en-CA/Generals-Handbook-EN-2019
   - title: "Endless Spells: Gloomspite Gitz"
     for: tyler
     image: https://www.games-workshop.com/resources/catalog/product/920x950/99120209061_EndlessSpellsGloomspiteGitz06.jpg
-    price: "$40"
+    price: 40
     link:
-      gamesworkshop: https://www.games-workshop.com/en-CA/Endless-spells-gloomspite-gitz-2019
+      Games Workshop: https://www.games-workshop.com/en-CA/Endless-spells-gloomspite-gitz-2019
 # >50
 gt50:
   - title: "Star Trek: Stardate Collection"
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/81IAvcRRSVL._AC_SL1500_.jpg
-    price: "$55.32"
+    price: 55.32
     link:
       amazon: https://www.amazon.ca/dp/B00DYAW236/
   - title: "Pirates of the Caribbean: Complete Movie Collection"
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/81D2e1rqCyL._AC_SL1500_.jpg
-    price: "$52.99"
+    price: 52.99
     link:
       amazon: https://www.amazon.ca/dp/B074G79614/
   - title: Predator 1-4 (4K UHD)
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/71pewPyRzuL._AC_SL1500_.jpg
-    price: "$71.89"
+    price: 71.89
     link:
       amazon: https://www.amazon.ca/dp/B07JJ6HQGF/
   - title: "Star Wars: The Complete Saga"
     for: family
     image: https://images-na.ssl-images-amazon.com/images/I/91Na71MJPZL._AC_SL1500_.jpg
-    price: "$98.97"
+    price: 98.97
     link:
       amazon: https://www.amazon.ca/dp/B013P2POSC/
   - title: Scale75 Inktensity Set
     for: tyler
     image: https://cdn.shopify.com/s/files/1/1543/6007/products/SSE-011-Portada-Web_1024x1024.jpg?v=1479182433
-    price: "$53.25"
+    price: 53.25
     link:
       scale75usa: https://scale75usa.com/collections/paint-sets-scale-color/products/inktensity-ink-set
   - title: Warhammer Age of Sigmar Core Book
     for: tyler
     image: https://www.games-workshop.com/resources/catalog/product/920x950/60040299070_AoSCoreRulebook01.jpg
-    price: "$70"
+    price: 70
     link:
-      gamesworkshop: https://www.games-workshop.com/en-CA/Warhammer-Age-Of-Sigmar-Book-2018-eng
+      Games Workshop: https://www.games-workshop.com/en-CA/Warhammer-Age-Of-Sigmar-Book-2018-eng
   - title: "Warhammer Age of Sigmar: Malign Sorcery"
     for: tyler
     image: https://www.games-workshop.com/resources/catalog/product/920x950/60120299001_AoSMalignSorceryENG01.jpg
-    price: "$90"
+    price: 90
     link:
-      gamesworkshop: https://www.games-workshop.com/en-CA/Age-Of-Sigmar-Malign-Sorcery-2018-eng
+      Games Workshop: https://www.games-workshop.com/en-CA/Age-Of-Sigmar-Malign-Sorcery-2018-eng
   - title: "Battletome: Skaven"
     for: tyler
     image: https://www.games-workshop.com/resources/catalog/product/920x950/60030206007_ENGSKABattletomeHB.jpg
-    price: "$50"
+    price: 50
     link:
-      gamesworkshop: https://www.games-workshop.com/en-CA/Battletome-Skaven-pb-2019eng
+      Games Workshop: https://www.games-workshop.com/en-CA/Battletome-Skaven-pb-2019eng
   - title: "Battletome: Gloomspite Gitz"
     for: tyler
     image: https://www.games-workshop.com/resources/catalog/product/920x950/60030209010_GloomspiteGitzBattletomeHB.jpg
-    price: "$50"
+    price: 50
     link:
-      gamesworkshop: https://www.games-workshop.com/en-CA/Battletome-Gloomspite-Gitz-Hb-Eng-2019
+      Games Workshop: https://www.games-workshop.com/en-CA/Battletome-Gloomspite-Gitz-Hb-Eng-2019
   - title: Bad Moon Loonshrine
     for: tyler
     image: https://www.games-workshop.com/resources/catalog/product/920x950/99120209060_BadMoonLoonshrine06.jpg
-    price: "$70"
+    price: 70
     link:
-      gamesworkshop: https://www.games-workshop.com/en-CA/Gloomspite-gitz-bad-moon-loonshrine-2019
+      Games Workshop: https://www.games-workshop.com/en-CA/Gloomspite-gitz-bad-moon-loonshrine-2019
   - title: Mixology Bartender Kit
     for: tyler
-    image: https://www.amazon.ca/dp/B07B9KLRDC/
-    price: "$69.97"
+    image: https://images-na.ssl-images-amazon.com/images/I/915Orq29ENL._AC_SL1500_.jpg
+    price: 69.97
     link:
       amazon: https://www.amazon.ca/dp/B07B9KLRDC/
 # >100
 gt100:
   - title: "The Lord of the Rings: The Motion Picture Trilogy (Extended Edition)"
     for: family
-    price: "$149.99"
+    price: 149.99
     image: https://images-na.ssl-images-amazon.com/images/I/91sqqzVpJYL._AC_SL1500_.jpg
     link:
        amazon: https://www.amazon.ca/dp/B004HEWNBO/
   - title: Start Collecting!  Skaven Pestilens
     for: tyler
-    price: "$110"
+    price: 110
     image: https://www.games-workshop.com/resources/catalog/product/920x950/99120206025_StartCollectingPestilens06.jpg
     link:
-       gamesworkshop: https://www.games-workshop.com/en-CA/Start-Collecting-Skaven-Pestilens
+       Games Workshop: https://www.games-workshop.com/en-CA/Start-Collecting-Skaven-Pestilens
